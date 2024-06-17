@@ -116,7 +116,7 @@ $(document).ready(function(){
             <div class="py-5 lg:py-10 *:pb-5">
               <h1 class="text-white text-3xl font-semibold">GIỚI THIỆU</h1>
               <hr class="border-white border-t-[1px]">
-              <p class="text-white">CMD68 Us là một website chính thức của CMD68 tại Việt Nam cũng như Châu Á. Chúng tôi sẽ cung cấp những đường link vào CMD368 chất lượng và mới nhất mang lại sự uy tín cho khách hàng và nhà cái. Link vào gồm rất nhiều các gifcode khuyến mãi 50K, 100K thưởng chào mừng khi tham gia</p>
+              <p class="text-white">CMD68 Us là một website chính thức của CMD68 tại Việt Nam cũng như Châu Á. Chúng tôi sẽ cung cấp những đường link vào CMD68 chất lượng và mới nhất mang lại sự uy tín cho khách hàng và nhà cái. Link vào gồm rất nhiều các gifcode khuyến mãi 50K, 100K thưởng chào mừng khi tham gia</p>
               <hr class="border-white border-t-[1px]">
               <p  class="text-white text-[1.4rem]">Hastag: #cmd68#cmd68_us #nha_cai_cmd68 #nha_cai #link_vao_cmd68 #cmd368_us#link_vao_cmd68_moi_nhat #link_cmd68#cmd68_khong_bi_chan</p>
             </div>
