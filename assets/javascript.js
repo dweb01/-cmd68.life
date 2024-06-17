@@ -18,8 +18,8 @@ $(document).ready(function(){
     <div class="header1 w-full bg-white">
           <div class="container mx-auto flex flex-col-reverse py-8  md:block lg:py-10">
             <div class="flex justify-center md:justify-end">
-              <button type="button" class="text-white bg-[#2a8fbd] focus:ring-4 focus:outline-none focus:ring-blue-300 dark:focus:ring-blue-800 font-medium rounded-lg text-2xl px-6 py-3 text-center me-2 mb-2">ĐĂNG NHẬP</button>
-              <button type="button" class="text-white bg-[#cc001b] focus:outline-none focus:ring-green-300 dark:focus:ring-green-800 font-medium rounded-lg text-2xl px-6 py-3 text-center me-2 mb-2">ĐĂNG KÝ</button>
+              <button onclick="url()" type="button" class="text-white bg-[#2a8fbd]  font-medium rounded-lg text-2xl px-6 py-3 text-center me-2 mb-2">ĐĂNG NHẬP</button>
+              <button onclick="url()" type="button" class="text-white bg-[#cc001b]  font-medium rounded-lg text-2xl px-6 py-3 text-center me-2 mb-2">ĐĂNG KÝ</button>
             </div>
             <div class="flex justify-center">
               <a href="index.html">
