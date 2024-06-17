@@ -270,7 +270,7 @@ $(document).ready(function(){
               <h3 class="text-xl"> <b>CASINO::</b> BACCARAT, ROULETTE, BLACJACK, POKER...</h3>
               <h3 class="text-xl"> <b>KHUYẾN MÃI:</b> 160% TỚI 6,5TR VND | 100K MIỄN PHÍ</h3>
               <h3 class="text-xl"> <b>PHƯƠNG THỨC THANH TOÁN:</b> CHUYỂN KHOẢN NH, MOMO, THẺ CÀO ĐT, THẺ GAME, TIỀN ĐIỆN TỬ USDT</h3>
-              <h3 class="text-xl"> <b>HỖ TRỢ:</b> LIVECHAT 24/7 | EMAIL: CMD368INFO@GMAIL.COM</h3>
+              <h3 class="text-xl"> <b>HỖ TRỢ:</b> LIVECHAT 24/7 | EMAIL: CMD68INFO@GMAIL.COM</h3>
               <div class="button">
                 <button type="button" class="flex items-center justify-center text-white text-xl font-semibold gap-5 bg-[#2e78c7] hover:bg-[#2e78c7d1] py-1 px-4 w-full border-2 border-[#4db6f5] rounded-xl transition-all duration-300" >
                   <i class="ri-logout-box-r-line text-3xl "></i>   CÁCH CHƠI CMD68
@@ -325,7 +325,7 @@ $(document).ready(function(){
               <hr class="border-t-2 border-black">
   `;
   $("#content_right").html(content_right);
-  const backtotop = `<button class="Btn-backtotop1 backgroundanimation">
+  const backtotop = `<button class="Btn-backtotop1">
           <svg class="Btn-backtotop1arrow h-7 w-7" viewBox="0 0 512 512">
             <path
               d="M233.4 105.4c12.5-12.5 32.8-12.5 45.3 0l192 192c12.5 12.5 12.5 32.8 0 45.3s-32.8 12.5-45.3 0L256 173.3 86.6 342.6c-12.5 12.5-32.8 12.5-45.3 0s-12.5-32.8 0-45.3l192-192z"

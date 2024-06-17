@@ -146,13 +146,13 @@ In order to be iterable, non-array objects must have a [Symbol.iterator]() metho
   }
 
 .Btn-backtotop1 {
-  width: 45px;
-  height: 45px;
-    background-image: linear-gradient(325deg, #e74c3c 0%, #F45C43 55%, #e74c3c 90%);
+  width: 4rem;
+  height: 4rem;
+  background-image: linear-gradient(325deg, #e74c3c 0%, #F45C43 55%, #e74c3c 90%);
   display: flex;
   align-items: center;
   justify-content: center;
-  border-radius: 50%;
+  border-radius: 8px;
   cursor: pointer;
   position: fixed;
   border: none;
@@ -160,7 +160,7 @@ In order to be iterable, non-array objects must have a [Symbol.iterator]() metho
   right: 35px;
   opacity: 0;
   transition: all 1s ease-in-out;
-  box-shadow: 0px 0px 20px rgba(71, 184, 255, 0.5), 0px 5px 5px -1px rgba(255, 234, 2, 0.25), inset 4px 4px 8px rgba(255, 2, 200, 0.5), inset -4px -4px 8px rgba(255, 156, 7, 0.897);
+  
 }  
 
 .Btn-backtotop1.show{
