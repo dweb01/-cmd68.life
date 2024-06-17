@@ -23,7 +23,7 @@ $(document).ready(function(){
             </div>
             <div class="flex justify-center">
               <a href="index.html">
-                <img  class="max-w-[20rem] lg:max-w-[30rem]"  src="./assets/images/CMD368_VN.png" alt="Logo"/>
+                <img  class="max-w-[20rem] lg:max-w-[30rem]"  src="./assets/images/1.png" alt="Logo"/>
               </a>
             </div>
           </div>
